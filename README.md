@@ -1,36 +1,5 @@
 # codewars
 
-FIXME: description
+![Hamish Rickerbys progress](https://www.codewars.com/users/rickerbh/badges/large)
 
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar codewars-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2018 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Check out my progress at [https://www.codewars.com/users/rickerbh](https://www.codewars.com/users/rickerbh)
