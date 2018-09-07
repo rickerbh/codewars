@@ -10,5 +10,5 @@
   (if (empty? xs)
     [xs]
     (let [current (first xs)
-          subset (powers-r (rest xs))]
+          subset (powerset-gen (rest xs))]
       (concat subset (map #(conj % current) subset)))))
